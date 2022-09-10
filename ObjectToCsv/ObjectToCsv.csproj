@@ -4,6 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <Version>1.0.0</Version>
+	  <Authors>jersonb</Authors>
+	  <Company>jersonb</Company>
+	  <PackageDescription>Add extensions to convert objects to CSV</PackageDescription>
+	  <RepositoryUrl>https://github.com/jersonb/Recife/tree/main/ObjectToCsv</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
